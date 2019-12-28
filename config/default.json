@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://assaf:assaf123@assaf-uxeae.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "AssafCohen621"
+}
